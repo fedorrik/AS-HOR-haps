@@ -1,4 +1,4 @@
-track name="HOR haplotypes1" description="HOR haplotypes in T2T-cenX" itemRgb="On" visibility="1"
+track name="HOR-hap_cenX" description="AS-HOR halpotypes cenX CHM13.v1.0" itemRgb="On" visibility="1"
 chrX	57819765	57821824	LILAC	2195	-	57819765	57821824	255,0,255
 chrX	57821825	57823882	LILAC	2358	-	57821825	57823882	255,0,255
 chrX	57823883	57825939	GREYP	2393	-	57823883	57825939	255,154,0

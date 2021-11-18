@@ -1,4 +1,4 @@
-track name="Haplotypes-E" description="Haplotypes-E 1-4/7-11" itemRgb="On" visibility="1"
+track name="HOR-hap_cen8_E" description="AS-HOR halpotypes cen8 hap-E CHM13.v1.0" itemRgb="On" visibility="1"
 chr8	44336630	44337986	S2C8H1L-E_1-4h7-11_BLUE	1.324300	+	44336630	44337986	0,255,0
 chr8	44341047	44342403	S2C8H1L-E_1-4h7-11_BLUE	1.322900	+	44341047	44342403	0,255,0
 chr8	44342403	44343759	S2C8H1L-E_1-4h7-11_BLUE	1.320000	+	44342403	44343759	0,255,0

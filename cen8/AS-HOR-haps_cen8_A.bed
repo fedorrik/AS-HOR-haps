@@ -1,4 +1,4 @@
-track name="Haplotypes-A" description="Haplotypes-A 1-11" itemRgb="On" visibility="1"
+track name="HOR-hap_cen8_A" description="AS-HOR halpotypes cen8 hap-A CHM13.v1.0" itemRgb="On" visibility="1"
 chr8	44244900	44246768	S2C8H1L-A_1-11_CYAN	1.299100	+	44244900	44246768	0,255,255
 chr8	44246768	44248640	S2C8H1L-B_1-11	1.297500	+	44246768	44248640	200,255,200
 chr8	44248640	44250508	S2C8H1L-B_1-11	1.306000	+	44248640	44250508	200,255,200

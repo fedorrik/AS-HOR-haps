@@ -1,4 +1,4 @@
-track name="Haplotypes-F" description="Haplotypes-F 1-7" itemRgb="On" visibility="1"
+track name="HOR-hap_cen8_F" description="AS-HOR halpotypes cen8 hap-F CHM13.v1.0" itemRgb="On" visibility="1"
 chr8	44335437	44336630	S2C8H1L-A_1-11_CYAN	1.311600	+	44335437	44336630	200,200,200
 chr8	44337989	44339179	S2C8H1L-F_1-7_BROWN	1.313900	+	44337989	44339179	200,200,200
 chr8	44343759	44344952	S2C8H1L-A_1-11_CYAN	1.316900	+	44343759	44344952	200,200,200

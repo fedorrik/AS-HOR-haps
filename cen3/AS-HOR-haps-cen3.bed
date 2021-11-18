@@ -1,4 +1,4 @@
-track name="cen3_hapl_hmmer" description="HMMER Haplotypes cen3" itemRgb="On" visibility="1"
+track name="HOR-hap_cen3" description="AS-HOR halpotypes cen3 CHM13.v1.0" itemRgb="On" visibility="1"
 chr3	91737711	91739505	S01C3H1L-C_2	1.079800	-	91737711	91739505	203,245,250
 chr3	91739492	91741618	S01C3H1L-D	1.078800	-	91739492	91741618	0,0,255
 chr3	91741590	91742732	S01C3H1L-C_2	1.094100	-	91741590	91742732	203,245,250
